@@ -1,0 +1,6 @@
+{
+  "name": "Techify",
+  "description": "Platform Learning Management System interaktif berbasis kartu untuk mahasiswa dengan dukungan progres XP, materi bab, kuis pretest/posttest, video pembelajaran, jadwal kuliah, dan forum diskusi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
